@@ -1,9 +1,9 @@
-# Robert's Weather App
+# Robert's Book app
 
 
 ## Description
 
-In its simplest form, this is a weather app. When given a city, it will display the current weather and a five-day forecast. In addition, this app will save your past city searches and show them on the left column for easy referencing.
+This website lets you search for all types of book titles. The user is given the title, author, and a book description, but the best part is that it lets the user save the book tiles they want for easy referencing. So they can create a to-be-read list. 
 
 
 ## Table of Contents
@@ -18,7 +18,7 @@ In its simplest form, this is a weather app. When given a city, it will display 
 
 Clone the repositoryand play  around with it.
 
-or just vist the website: https://robmor1100.github.io/Robert-s-weather-app/
+or just vist the website: https://thawing-badlands-50890.herokuapp.com/
 
 
 
